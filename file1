@@ -5,3 +5,7 @@ login
 reports
 catlogs
 product -upload
+new changes 
+git is the main tool to work in devops 
+and creating the files in the git  new repo 
+and saveing this in the repo and after creating the file and we want to seem the git status ans after that add after the adding the  and the to changr into working area to index area and completing that we ant channge the index area to local area by commit -m an d after that to pushto main branch use git push -u origin main.
